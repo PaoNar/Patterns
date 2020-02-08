@@ -1,0 +1,27 @@
+{
+  "name": "Duck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johao70/head_first_desing_patterns.git"
+  },
+  "keywords": [],
+  "author": "Sedric Oña",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johao70/head_first_desing_patterns/issues"
+  },
+  "homepage": "https://github.com/johao70/head_first_desing_patterns#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
